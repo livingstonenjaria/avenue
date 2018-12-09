@@ -1,0 +1,19 @@
+{
+  "name": "avenue",
+  "version": "1.0.0",
+  "description": "Avenue Operating System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/structafrica/avenue.git"
+  },
+  "author": "Struct Africa (Edel and Livingstone)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/structafrica/avenue/issues"
+  },
+  "homepage": "https://github.com/structafrica/avenue#readme"
+}
